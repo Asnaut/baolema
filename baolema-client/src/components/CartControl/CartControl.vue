@@ -38,7 +38,7 @@ export default {
       padding 6px
       line-height 24px
       font-size 24px
-      color $green
+      color $blue
       &.move-enter-active, &.move-leave-active
         transition all .3s
       &.move-enter, &.move-leave-to
@@ -58,5 +58,5 @@ export default {
       padding: 6px
       line-height: 24px
       font-size: 24px
-      color $green
+      color $blue
 </style>

@@ -1,6 +1,6 @@
-# mintshop-client
+# baolema-client
 
-> Mintshop client project
+>  Baolema client project
 
 ## Build Setup
 

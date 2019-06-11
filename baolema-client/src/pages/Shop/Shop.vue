@@ -49,7 +49,7 @@ export default {
         display block
         position relative
         &.router-link-active
-          color #02a774
+          color #086FFF
           &::after
             content ''
             position absolute
@@ -58,5 +58,5 @@ export default {
             width 35px
             height 2px
             transform translateX(-50%)
-            background #02a774
+            background #086FFF
 </style>

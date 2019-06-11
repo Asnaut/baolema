@@ -147,7 +147,7 @@ export default {
   .msite  //首页
     width 100%
     .header
-      background-color #02a774
+      background-color #086FFF
       position fixed
       z-index 100
       left 0
@@ -221,7 +221,7 @@ export default {
                 color #666
         .swiper-pagination
           >span.swiper-pagination-bullet-active
-            background #02a774
+            background #086FFF
     .msite_shop_list
             top-border-1px(#e4e4e4)
             margin-top 10px

@@ -131,7 +131,7 @@ export default {
     width 100%
     overflow hidden
     .header //头部公共css
-      background-color #02a774
+      background-color #086FFF
       position fixed
       z-index 100
       left 0
@@ -163,7 +163,7 @@ export default {
         clearFix()
         position relative
         display block
-        background #02a774
+        background #086FFF
         padding 20px 10px
         .profile_image
           float left
@@ -268,7 +268,7 @@ export default {
           .icon-viptehuishiduan
             color #f90
           .icon-lianxikefu
-            color #02a774
+            color #086FFF
         .my_order_div
           width 100%
           border-bottom 1px solid #f1f1f1

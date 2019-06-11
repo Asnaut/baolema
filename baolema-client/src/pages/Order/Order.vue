@@ -25,7 +25,7 @@ export default {
   .order  //订单
     width 100%
     .header //头部公共css
-      background-color #02a774
+      background-color #086FFF
       position fixed
       z-index 100
       left 0
@@ -64,7 +64,7 @@ export default {
         color #6a6a6a
       >button
         display inline-block
-        background #02a774
+        background #086FFF
         font-size 14px
         color #fff
         border 0

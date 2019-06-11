@@ -163,7 +163,7 @@ export default {
             text-align center
             background #2b343c
             &.highlight
-              background $green
+              background $blue
             .icon-shopping
               line-height 44px
               font-size 24px
@@ -228,7 +228,7 @@ export default {
           width 16px
           height 16px
           border-radius 50%
-          background $green
+          background $blue
           transition all 0.4s linear
     .shopcart-list
       position absolute

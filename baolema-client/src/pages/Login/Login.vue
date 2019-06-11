@@ -2,7 +2,7 @@
   <section class="loginContainer">
     <div class="loginInner">
       <div class="login_header">
-        <h2 class="login_logo">饱了吗外卖</h2>
+        <h2 class="login_logo">饱了吗</h2>
         <div class="login_header_title">
           <a href="javascript:;" :class="{on: loginWay}" @click="loginWay=true">短信登录</a>
           <a href="javascript:;" :class="{on: !loginWay}" @click="loginWay=false">密码登录</a>
@@ -197,7 +197,7 @@ export default {
         .login_logo
           font-size 40px
           font-weight bold
-          color #02a774
+          color #086FFF
           text-align center
         .login_header_title
           padding-top 40px
@@ -209,9 +209,9 @@ export default {
             &:first-child
               margin-right 40px
             &.on
-              color #02a774
+              color #086FFF
               font-weight 700
-              border-bottom 2px solid #02a774
+              border-bottom 2px solid #086FFF
       .login_content
         >form
           >div
@@ -228,7 +228,7 @@ export default {
               outline 0
               font 400 14px Arial
               &:focus
-                border 1px solid #02a774
+                border 1px solid #086FFF
             .login_message
               position relative
               margin-top 16px
@@ -272,7 +272,7 @@ export default {
                     float right
                     color #ddd
                 &.on
-                  background #02a774
+                  background #086FFF
                 >.switch_circle
                   //transform translateX(27px)
                   position absolute
@@ -293,14 +293,14 @@ export default {
               font-size 14px
               line-height 20px
               >a
-                color #02a774
+                color #086FFF
           .login_submit
             display block
             width 100%
             height 42px
             margin-top 30px
             border-radius 4px
-            background #4cd96f
+            background #086FFF
             color #fff
             text-align center
             font-size 16px

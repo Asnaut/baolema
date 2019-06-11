@@ -54,7 +54,7 @@ import Star from '../Star/Star.vue'
 export default {
   data () {
     return {
-      baseImgUrl: 'https://raw.githubusercontent.com/W-Qing/Vue-MintShop/master/mintshop-client/src/components/ShopList/images/'
+      baseImgUrl: 'https://i.loli.net/2019/06/11/'
     }
   },
   computed: {
@@ -153,11 +153,11 @@ export default {
               .delivery_left
                 color #fff
                 margin-right -10px
-                background-color #02a774
-                border 1px solid #02a774
+                background-color #086FFF
+                border 1px solid #086FFF
               .delivery_right
-                color #02a774
-                border 1px solid #02a774
+                color #086FFF
+                border 1px solid #086FFF
           .shop_distance
             clearFix()
             width 100%

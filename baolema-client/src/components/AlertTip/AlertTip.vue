@@ -95,7 +95,7 @@ export default {
         font-size 18px
         font-weight bold
         margin-top 10px
-        background-color #4cd964
+        background-color #086FFF
         width 100%
         text-align center
         line-height 35px
