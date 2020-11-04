@@ -1,5 +1,11 @@
+# Project for ordering system Baolema
+
+The Project is based on Vue and Element UI.
+## Docs:
+The doc is located at ./docs/
 
 
+## How to use:
 **baolema-client：**
 
 1. `npm install`
